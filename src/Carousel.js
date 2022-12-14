@@ -1,7 +1,7 @@
 import React from 'react'
 import banner1 from './image/banner1.jpeg'
 import banner2 from './image/banner2.webp'
-import banner3 from './image/banner3.jpg'
+import banner3 from './image/banner3.webp'
 export const Carousel = () => {
   return (
     <div>
