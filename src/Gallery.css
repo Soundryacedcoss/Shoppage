@@ -1,0 +1,14 @@
+.GalleryRow1{
+    display: flex;
+    column-gap: 30%;
+}
+
+#img1{
+    width: 50%;
+    height: 200px;
+}
+
+#img2{
+    width: 50%;
+    height: 500%;
+}
