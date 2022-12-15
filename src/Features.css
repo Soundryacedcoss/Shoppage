@@ -1,0 +1,46 @@
+.Container{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 11em;
+    column-gap: 4%;
+    /* margin-left: 13%; */
+    padding-left: 2%;
+    width: 80%;
+    
+}
+.Sideimg{
+    width: 100%;
+    height:320px;
+}
+.CarouselDiv1{
+    width: 70%;
+}
+.carouselItemDiv{
+    display: flex;
+    background-color: #ff1616;
+    padding: 2%;
+    color: white;
+    padding-right: 2%;
+    padding-left: 13%;
+    column-gap: 3%;
+    width: 100%;
+    padding-bottom: 13%;
+}
+.Container-row1-col1{
+    display: flex;
+    column-gap: 60%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.ButtonCarousel{
+    border: solid white 2px;
+    border-radius: 12px;
+    padding: 1% 4%;
+    background-color: #ff1616;
+    color: white;
+    margin-top: 15%;
+}
+.carouselItemDivContent{
+    margin-top: 7%;
+    width: 80%;
+}

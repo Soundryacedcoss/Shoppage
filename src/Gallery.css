@@ -1,8 +1,30 @@
 .GalleryRow1{
     display: flex;
-    column-gap: 30%;
-}
+    column-gap: 10%;
+    margin-left: 15%;
+    margin-bottom: 4%;
 
+}
+.ViewButton{
+    background-color: #f43131;
+    border-style: none;
+    border-radius: 12px;
+    padding: 0% 9%;
+    /* font-size: 20px; */
+}
+.Galery-RowCol1{
+    background-image: url('./image/phiano1.jpg');
+    height: 190px;
+    width: 35%;
+    margin-top: 3%;
+   
+}
+.Galery-RowCol2{
+    background-image: url('./image/wilma.jpg');
+    height: 190px;
+    width: 35%;
+    margin-top: 3%;
+}
 #img1{
     width: 50%;
     height: 200px;
@@ -11,4 +33,19 @@
 #img2{
     width: 50%;
     height: 500%;
+}
+.NetWorkDiv{
+    color: white;
+    padding: 6% 3%;
+    background-color: #252e56;
+    margin-left: 15%;
+    margin-right: 16%;
+    margin-bottom: 4%;
+}
+.InputBox{
+    width: 30%;
+    border-style: none;
+    border-radius: 20px;
+    padding: 1%;
+    margin-right: 1%;
 }

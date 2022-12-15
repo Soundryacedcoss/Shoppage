@@ -1,0 +1,12 @@
+.footerContainer {
+  display: flex;
+  padding: 3%;
+  margin-top: 4%;
+  background-color: #fef4f4;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}

@@ -1,0 +1,18 @@
+.Carousel{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 2%;
+}
+.Caroselbutton1{
+border-style: none;
+border-radius: 12px;
+}
+
+.Caroselbutton2{
+    border-style: none;
+    border-radius: 20px;
+    background-color : #ff1616 ; 
+    color: white;
+    font-weight: bold;
+    padding: 2% 3%;
+}
